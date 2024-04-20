@@ -1,5 +1,6 @@
 package main
 
+//Предположим "ква"
 import (
 	"fmt"
 )
